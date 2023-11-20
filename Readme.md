@@ -49,7 +49,7 @@ Modify the module as needed for specific requirements. Customization allows adap
 
 ## Compatibility
 
-This module is compatible with PrestaShop versions 1.6 to 1.7.
+This module is compatible with PrestaShop versions 1.6 to 8.
 
 ---
 
